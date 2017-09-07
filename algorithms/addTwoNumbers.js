@@ -2,6 +2,7 @@
 // Author : zhouweilin
 // Date   : 2017-09-06
 // DS     : linked-list
+
 /**
  * Definition for singly-linked list.
  * function ListNode(val) {
