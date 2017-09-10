@@ -10,3 +10,9 @@
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)| [JavaScript](./algorithms/palindromeNumber.js)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)| [JavaScript](./algorithms/romanToInteger.js)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[JavaScript](./algorithms/longestCommonPrefix.js)|Easy|
+
+## Topics - Array
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)|[JavaScript](./algorithms/nonDecreasingArray.js)|Easy|
