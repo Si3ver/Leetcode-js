@@ -7,7 +7,7 @@
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)| [JavaScript](./algorithms/twoSum.js)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)| [JavaScript](./algorithms/addTwoNumbers.js)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)| [JavaScript1](./algorithms/longestSubstringWithoutRepeatingCharacters.js),[JavaScript2](./algorithms/longestSubstringWithoutRepeatingCharacters2.js)|Medium|
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)| [JavaScript1](./algorithms/medianOfTwoSortedArrays.js)|Hard|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)| [JavaScript](./algorithms/medianOfTwoSortedArrays.js)|Hard|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)| [JavaScript](./algorithms/reverseInteger.js)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)| [JavaScript](./algorithms/palindromeNumber.js)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)| [JavaScript](./algorithms/romanToInteger.js)|Easy|
