@@ -2,7 +2,7 @@
 // Author : zhouweilin
 // Date   : 2017-09-12
 // DS     : hash-map
-// Method : slide-window
+// Method : 
 
 /**
  * @param {string} s
