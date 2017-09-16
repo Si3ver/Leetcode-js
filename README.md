@@ -9,6 +9,7 @@
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)| [JavaScript1](./algorithms/_003_lengthOfLongestSubstring1.js),[JavaScript2](./algorithms/_003_lengthOfLongestSubstring2.js)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)| [JavaScript](./algorithms/_004_findMedianSortedArrays.js)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)| [JavaScript](./algorithms/_005_longestPalindrome.js)|Medium|
+|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)| [JavaScript](./algorithms/_006_convert.js)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)| [JavaScript](./algorithms/_007_reverse.js)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)| [JavaScript](./algorithms/_009_isPalindrome.js)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)| [JavaScript](./algorithms/_013_romanToInt.js)|Easy|
