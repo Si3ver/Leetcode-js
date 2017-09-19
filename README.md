@@ -13,6 +13,7 @@
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)| [JavaScript](./algorithms/_007_reverse.js)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)| [JavaScript](./algorithms/_008_myAtoi.js)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)| [JavaScript](./algorithms/_009_isPalindrome.js)|Easy|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)| 
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)| [JavaScript](./algorithms/_013_romanToInt.js)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)| [JavaScript](./algorithms/_014_longestCommonPrefix.js)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)| [JavaScript](./algorithms/_020_isValid.js)|Easy|
