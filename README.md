@@ -24,4 +24,5 @@
 | # | Title | Solution | Difficulty | Method |
 |---| ----- | -------- | ---------- | ------ |
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)| [JavaScript](./algorithms/_066_plusOne.js)|Easy| OK |
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)| [JavaScript1](./algorithms/_189_rotate1.js)[JavaScript2](./algorithms/_189_rotate2.js)|Easy| OK |
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)| [JavaScript](./algorithms/_661_checkPossibility.js)|Easy|
