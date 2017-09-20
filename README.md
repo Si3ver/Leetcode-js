@@ -21,6 +21,7 @@
 
 ## Topics - Array
 
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
+| # | Title | Solution | Difficulty | Method |
+|---| ----- | -------- | ---------- | ------ |
+|66|[Plus One](https://leetcode.com/problems/plus-one/description/)| [JavaScript](./algorithms/_066_plusOne.js)|Easy| OK |
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)| [JavaScript](./algorithms/_661_checkPossibility.js)|Easy|
